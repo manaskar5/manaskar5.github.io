@@ -2,6 +2,7 @@
 
 * I am an Assistant Professor at the [Department of Mathematics](https://maths.iiserb.ac.in/), [IISER Bhopal](https://www.iiserb.ac.in/).
 * I am interested in PDE.
+* You may visit [this page](https://manasmkar.wixsite.com/math).
 
 ## Problem Solving Sessions
 
